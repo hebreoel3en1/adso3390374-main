@@ -61,4 +61,4 @@ Este repositorio contiene el portafolio de evidencias y prácticas desarrolladas
 ## 🔗 Enlaces de Interés
 
 * 📁 [Recursos en Drive ADSO](https://tinyurl.com/wnkk334u)
-* 🌐 **Despliegue en Vercel:** *(Enlace disponible tras vincular en Vercel)*
+* 🌐 **Despliegue en Vercel:** [https://adso3390374-main.vercel.app](https://adso3390374-main.vercel.app)
