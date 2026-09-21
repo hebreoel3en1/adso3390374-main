@@ -45,7 +45,7 @@ Este repositorio contiene el portafolio de evidencias y prácticas desarrolladas
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone https://github.com/<tu-usuario-github>/adso3390374.git
+   git clone https://github.com/hebreoel3en1/adso3390374-main.git
    ```
 
 2. **Acceder a la carpeta del proyecto:**
